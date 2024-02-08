@@ -1,1 +1,1 @@
-# drum-machine
+# The FCC curriculum drum-machine
